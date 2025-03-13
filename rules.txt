@@ -5,3 +5,9 @@ macrumors.com##.tertiary
 reddit.com##.promotedlink
 ^https?://+([^:/]+\.)?www\.hltv\.org/img/[^static]
 hltv.org##.fbw-flex-wrapper
+www.hltv.org##.ggbe-firstcol-box.a-reset
+hltv.org##.presented-by
+hltv.org##.thunderpick-firstcol-box
+hltv.org##[href*="1xbet"]:upward(1)
+hltv.org##a:matches-attr(href=/[a-zA-Z0-9]{100,}/)
+www.hltv.org##.mid-container
