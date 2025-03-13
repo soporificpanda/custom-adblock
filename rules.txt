@@ -3,3 +3,5 @@ arstechnica.com##.instream-wrap
 ##.ad-wrapper
 macrumors.com##.tertiary
 reddit.com##.promotedlink
+^https?://+([^:/]+\.)?www\.hltv\.org/img/[^static]
+hltv.org##.fbw-flex-wrapper
