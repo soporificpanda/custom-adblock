@@ -13,5 +13,3 @@ hltv.org##a:matches-attr(href=/[a-zA-Z0-9]{100,}/)
 hltv.org##.mid-container
 hltv.org##.mobiletop.smartphone-only.centered-placement
 hltv.org##.kgN8P9bvyb2EqDJR
-hltv.org##.mobile-bottom-overlay
-hltv.org#.data-mobile-overlay
