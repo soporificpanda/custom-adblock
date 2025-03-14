@@ -11,3 +11,5 @@ hltv.org##.thunderpick-firstcol-box
 hltv.org##[href*="1xbet"]:upward(1)
 hltv.org##a:matches-attr(href=/[a-zA-Z0-9]{100,}/)
 hltv.org##.mid-container
+hltv.org##.smartphone-only
+hltv.org##.mobile-bottom-overlay
