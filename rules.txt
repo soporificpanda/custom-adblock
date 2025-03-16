@@ -1,4 +1,4 @@
-! Title: aa pnda-block
+! Title: pnda-block
 arstechnica.com###outbrain-recs-wrap
 arstechnica.com##.instream-wrap
 ##.ad-wrapper
@@ -13,3 +13,4 @@ hltv.org##a:matches-attr(href=/[a-zA-Z0-9]{100,}/)
 hltv.org##.mid-container
 hltv.org##.mobiletop.smartphone-only.centered-placement
 hltv.org##.kgN8P9bvyb2EqDJR
+||accounts.google.com/gsi/client$script,third-party
