@@ -1,2 +1,2 @@
 # custom-adblock
-my custom blocklist
+my custom blocklist to supplement easylist and dns blocking
