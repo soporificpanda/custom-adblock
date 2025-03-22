@@ -1,6 +1,7 @@
 ! Title: pnda-block
 arstechnica.com###outbrain-recs-wrap
 arstechnica.com##.instream-wrap
+arstechnica.com##.ars-interlude-container
 macrumors.com##.tertiary
 reddit.com##.promotedlink
 ^https?://+([^:/]+\.)?www\.hltv\.org/img/[^static]
